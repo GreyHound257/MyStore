@@ -2,7 +2,6 @@
 
 A straightforward e-commerce landing page built using **HTML5**, **Bootstrap 5**, and basic **JavaScript**.
 
-This version is designed specifically for students and developers who understand core programming concepts and want clean, standard, readable code without unnecessary animations, toasts, or complex styling.
 
 ---
 
@@ -44,11 +43,3 @@ This version is designed specifically for students and developers who understand
 ├── app.js       # Readable JavaScript with basic functions, loops, and arrays
 └── README.md    # Overview and explanation
 ```
-
----
-
-## 🚀 How to Run the Website
-
-1. Navigate to:
-   `c:\Users\ngsg0480\Documents\antigravity\busy-shannon\`
-2. Double-click **`index.html`** to open it directly in your web browser.
