@@ -1,0 +1,18 @@
+/* Simple CSS styling for product image uniform height */
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #fdfdfd;
+}
+
+/* Ensure all product card images have the same height */
+.card-img-top {
+  height: 200px;
+  object-fit: cover;
+}
+
+/* Cart table styling */
+#cartTable th,
+#cartTable td {
+  vertical-align: middle;
+}
